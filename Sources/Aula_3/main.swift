@@ -1,5 +1,8 @@
 import Foundation
-class Carro {
+
+// exemplo feito em aula
+
+/*class Carro {
     private (set) var marca: String
     private (set) var modelo: String
 
@@ -38,4 +41,10 @@ print()
 print(carro.modelo)
 
 carro.alterarM(senha:123, novaM:"cheveront")
-print(carro.marca)
+print(carro.marca) */
+
+// ATIVIDADE 2 //
+
+class PerfilUsuario {
+    
+}
